@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://chizivictor.netlify.app](https://chizivictor.netlify.app)
 
-- 💬 Ask me about **React, NextJS.**
-
 - 📫 How to reach me **chiziwokoma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
