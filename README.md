@@ -12,8 +12,7 @@
 - 📫 How to reach me **chiziwokoma@gmail.com**
 
 - <p align="left">
-  <a href="https://codepen.io/chiziivictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chiziivictor" height="30" width="40" /></a>
-  <a href="https://twitter.com/chiziivictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiziivictor" height="30" width="40" /></a>
+  <a href="https://twitter.com/chiziivictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiziivictor" height="20" width="20" /></a>
   </p>
 
 <h3 align="center">Languages and Tools:</h3>
