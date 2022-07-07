@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chizi Victor</h1>
 <h3 align="center">A software engineer from Port Harcourt, Nigeria.</h3>
 
-<br></br>
-
 - 🔭 I’m currently working on **multiple reddit clones with different technologies...**
 
 - 🌱 I’m currently learning **how to work with Typescript with NodeJS.**
