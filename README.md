@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **multiple reddit clones with different technologies...**
 
-- 🌱 I’m currently learning **how to work with Typescript with NodeJS.**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, NextJS.**
 
