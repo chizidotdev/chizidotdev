@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chizi Victor</h1>
 <h3 align="center">A software engineer from Port Harcourt, Nigeria.</h3>
 
-- 🔭 I’m currently working on **multiple reddit clones with different technologies...**
+- 🔭 I’m currently working on **a large repository of React projects...**
 
 - 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **React, NextJS.**
 
 - 📫 How to reach me **chiziwokoma@gmail.com**
 
