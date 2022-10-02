@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **chiziwokoma@gmail.com**
 
-- <p align="left">
-  <a href="https://twitter.com/chizidotdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chizidotdev" height="20" width="20" /></a>
+- <p align="left">I'm on Twitter
+  <a href="https://twitter.com/chizidotdev" target="blank">@chizidotdev <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chizidotdev" height="20" width="20" /></a>
   </p>
 
 <h3 align="center">Languages and Tools:</h3>
