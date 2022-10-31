@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a large repository of React projects...**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **chiziwokoma@gmail.com**
 
