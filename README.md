@@ -16,5 +16,5 @@ I write a lot of Typescript, but I really love Golang
 
 
 <a href="https://twitter.com/chizidotdev" target="blank">
-    <img src="https://img.shields.io/twitter/follow/chizidotdev" alt="chizidotdev" />
+    <img src="https://img.shields.io/twitter/follow/chizidotdev?style=flat-square&logo=twitter" alt="chizidotdev" />
 </a>
