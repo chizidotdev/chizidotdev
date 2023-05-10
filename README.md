@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm founder and CEO at ....
+I'm founder and CEO at chizidotorg...
 
 I write a lot of Typescript, but I really love Golang
 
