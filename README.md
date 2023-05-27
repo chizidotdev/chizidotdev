@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm founder and CEO at chizidotorg...
+I'm founder and CEO at Aidmedium...
 
 I write a lot of Typescript, but I really love Golang
 
