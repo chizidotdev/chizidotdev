@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm founder and CEO at Aidmedium...
+I'm Chizi, a software developer and unabashed nerd...
 
 I write a lot of Typescript, but I really love Golang
 
